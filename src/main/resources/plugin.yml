@@ -2,3 +2,6 @@ name: Re_SimpleGm
 version: @version@
 main: dev.aspulse.re_simplegm.Re_SimpleGm
 api-version: 1.16
+commands:
+  gm:
+    description: change gamemode simply
